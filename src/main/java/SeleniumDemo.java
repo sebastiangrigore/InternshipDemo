@@ -118,15 +118,11 @@ public class SeleniumDemo {
     @Test
     @DisplayName("fourth test")
     public void navigateToModal() {
-        driver.navigate().to(BASE_URL);
-        WebElement pageSubTitle = driver.findElement(MainPage.PAGE_TITLE);
-        assertTrue(pageSubTitle.isDisplayed(), "page subtitle is not displayed");
+       dasdsadsadasda
 
-        WebElement entryAdPage = driver.findElement(MainPage.ENTRY_AD_PAGE);
-        entryAdPage.click();
+        Wasdasdasdads
 
-        WebElement modal = driver.findElement(MainPage.AD_MODAL);
-        assertTrue(modal.isDisplayed(), "modal is not displayed");
+        WebElementasdasdsa), "modal is not displayed");
         WebElement modalCloseButton = driver.findElement(MainPage.MODAL_CLOSE_BUTTON);
         modalCloseButton.click();
 
