@@ -130,9 +130,9 @@ public class SeleniumDemo {
         WebElement modalCloseButton = driver.findElement(MainPage.MODAL_CLOSE_BUTTON);
         modalCloseButton.click();
 
-xcvxcvcx
-asdfasdfasd
-asdasd    }
-    asdads
+sdffdsfsdfsdffsdfdsfds
+sdfsdfsdfdsfds
+sdfsdfsdfsdfds
+ sdfsdfsdfsdfdsfdsfsd
 
 }
